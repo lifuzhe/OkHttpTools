@@ -9,17 +9,26 @@ OkHttpTools
 
 
 
-## OkHttpTools简介
+## OkHttpTools演示
 ![image](https://github.com/lifuzhe/OkHttpTools/blob/master/OkHttpTools_Demo/gif/demo.gif)
 
+
+## OkHttpTools简介
 ----------
 一个对OkHttp封装的简单易用型HTTP请求和文件下载管理框架
 * 简化OkHttp使用
 * 支持GET,POST,PUT,DELETE,HEAD,PATCH
+* 支持文件下载
+* 支持返回bean对象
+* 支持返回json String数据
+* 支持返回JsonObject对象
+* 支持https请求
+* 支持文件上传
+* 其他
 
-Compile
+依赖库
 ----------
-This place contains the specific steps of Compile.
+将HttpTools作为依赖库导入Eclipse工程或者Studio工程
 ```
 allprojects {
     repositories {
