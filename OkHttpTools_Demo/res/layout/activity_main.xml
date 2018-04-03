@@ -1,0 +1,66 @@
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:orientation="vertical" >
+    
+    <Button 
+        android:onClick="parseBean"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="13dp"
+        android:layout_marginRight="13dp"
+        android:text="响应数据解析bean"
+        android:textColor="#fff"
+        android:background="@drawable/btn_selector"/>
+    
+    <Button 
+        android:onClick="parseString"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="13dp"
+        android:layout_marginRight="13dp"
+        android:text="响应数据解析string"
+        android:textColor="#fff"
+        android:background="@drawable/btn_selector"/>
+    
+    <Button 
+        android:onClick="parseJsonObject"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="13dp"
+        android:layout_marginRight="13dp"
+        android:text="响应数据解析jsonObject"
+        android:textColor="#fff"
+        android:background="@drawable/btn_selector"/>
+    
+    <Button 
+        android:onClick="fileDownload"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="13dp"
+        android:layout_marginRight="13dp"
+        android:text="文件下载"
+        android:textColor="#fff"
+        android:background="@drawable/btn_selector"/>
+    
+    <Button 
+        android:onClick="fileUpload"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="13dp"
+        android:layout_marginRight="13dp"
+        android:text="文件上传"
+        android:textColor="#fff"
+        android:background="@drawable/btn_selector"/>
+    
+    
+</LinearLayout>
+
