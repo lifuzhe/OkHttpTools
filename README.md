@@ -26,21 +26,19 @@ OkHttpTools
 * 支持文件上传
 * 其他
 
-依赖库
+使用方法
 ----------
 将HttpTools作为依赖库导入Eclipse工程或者Studio工程
 ```
-allprojects {
-    repositories {
-        ...
-        maven { url "https://jitpack.io" }
-    }
-} 
+fastjson-1.1.46.android.jar
+okhttp-3.2.0.jar
+OkHttpTools.jar
+okio-1.6.0.jar
+ToolsFinal-1.1.5-release.jar
 ```
-This place includes other specific steps for Compile.
+在你的Application中初始化OkHttpTools
 ```
-// replace {x.y.z} with the latest version.
-compile 'com.github.XunMengWinter:CircularAnim:{x.y.z}'
+OkHttpApp.init();
 ```
 
 Method of use
