@@ -1,9 +1,6 @@
 OkHttpTools
 ===========================
-The project will only be used for testing, and will continue to update the new open source project.Please forgive me if you have any shortcomings.
 
-
-	
 |Author|lifuzhe|
 |---|---
 |E-mail|3307732694@qq.com
@@ -12,7 +9,7 @@ The project will only be used for testing, and will continue to update the new o
 
 
 
-## Demonstration effect
+## OkHttpTools简介
 ![image](https://github.com/lifuzhe/OkHttpTools/blob/master/OkHttpTools_Demo/gif/demo.gif)
 
 
