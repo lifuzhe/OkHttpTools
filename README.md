@@ -13,7 +13,7 @@ The project will only be used for testing, and will continue to update the new o
 
 
 ## Demonstration effect
-![image](https://github.com/lifuzhe/XiaoTest/blob/master/image/game.gif)
+![image](https://github.com/lifuzhe/OkHttpTools/blob/master/OkHttpTools_Demo/gif/demo.gif)
 
 
 Compile
