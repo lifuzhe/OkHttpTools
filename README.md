@@ -11,7 +11,9 @@ OkHttpTools
 
 ## OkHttpTools简介
 ![image](https://github.com/lifuzhe/OkHttpTools/blob/master/OkHttpTools_Demo/gif/demo.gif)
-
+一个对OkHttp封装的简单易用型HTTP请求和文件下载管理框架
+* 简化OkHttp使用
+* 支持GET,POST,PUT,DELETE,HEAD,PATCH
 
 Compile
 ----------
